@@ -1,0 +1,12 @@
+{
+    "name": "ryanaslett/arbitrary_dependency",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ryan Aslett (Mixologic)",
+            "email": "ryan@association.drupal.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
